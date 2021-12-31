@@ -13,4 +13,4 @@ These are the materials for Introduction to Python, an online Python course that
 
 Each lesson consists of a Powerpoint presentation and jupyter notebook. Initially, I ran the course using Spyder with PDF exercise sheets, which can be found alongside the materials of each lesson. In my second iteration of the course, I found that Jupyter Notebooks provide a more intuitive coding environment. Hence, the PDF documents are attached only for completeness. 
 
-Some questions were taken from [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey. While the project from lesson 8 consisted of an code explanation snake from the Python module [freegames](https://pypi.org/project/freegames/).
+Some questions were taken from [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) by Allen B. Downey. While the project from lesson 8 consisted of a code explanation snake from the module [Freegames](https://pypi.org/project/freegames/).
