@@ -1,6 +1,6 @@
 # Python-Course
 
-These are the materials for Introduction to Python, an online Python course that I taught online in 2021 to children aged 8-13. Here is an outline of the course:
+These are the materials for Introduction to Python, an online Python course that I taught online 2021-2022 to children aged 8-13. Here is an outline of the course:
 
 - Lesson 1 – Getting Started: Introduction and Arithmetic Operators
 - Lesson 2 – Types and Variables 
