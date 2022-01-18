@@ -1,4 +1,4 @@
-# Python-Course
+# Introduction to Pythobn by Mark Smith
 
 These are the materials for 'Introduction to Python', an online Python course that I created and taught from 2021 and continue to teach throught early 2022 to children aged 8-13. Here is an outline of the course:
 
